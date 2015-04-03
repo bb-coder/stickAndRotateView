@@ -14,6 +14,37 @@
 		F7CCF9C41ACA436100C0F439 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9C31ACA436100C0F439 /* Images.xcassets */; };
 		F7CCF9C71ACA436100C0F439 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9C51ACA436100C0F439 /* LaunchScreen.xib */; };
 		F7CCF9D31ACA436100C0F439 /* ________demoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F7CCF9D21ACA436100C0F439 /* ________demoTests.m */; };
+		F7CCF9DF1ACA43DE00C0F439 /* BHBStickPlotView.m in Sources */ = {isa = PBXBuildFile; fileRef = F7CCF9DE1ACA43DE00C0F439 /* BHBStickPlotView.m */; };
+		F7CCF9FD1ACA60AD00C0F439 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9E11ACA60AD00C0F439 /* 1.png */; };
+		F7CCF9FE1ACA60AD00C0F439 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9E31ACA60AD00C0F439 /* 1.png */; };
+		F7CCF9FF1ACA60AD00C0F439 /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9E41ACA60AD00C0F439 /* 10.png */; };
+		F7CCFA001ACA60AD00C0F439 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9E51ACA60AD00C0F439 /* 11.png */; };
+		F7CCFA011ACA60AD00C0F439 /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9E61ACA60AD00C0F439 /* 12.png */; };
+		F7CCFA021ACA60AD00C0F439 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9E71ACA60AD00C0F439 /* 2.png */; };
+		F7CCFA031ACA60AD00C0F439 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9E81ACA60AD00C0F439 /* 3.png */; };
+		F7CCFA041ACA60AD00C0F439 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9E91ACA60AD00C0F439 /* 4.png */; };
+		F7CCFA051ACA60AD00C0F439 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9EA1ACA60AD00C0F439 /* 5.png */; };
+		F7CCFA061ACA60AD00C0F439 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9EB1ACA60AD00C0F439 /* 6.png */; };
+		F7CCFA071ACA60AD00C0F439 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9EC1ACA60AD00C0F439 /* 7.png */; };
+		F7CCFA081ACA60AD00C0F439 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9ED1ACA60AD00C0F439 /* 8.png */; };
+		F7CCFA091ACA60AD00C0F439 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9EE1ACA60AD00C0F439 /* 9.png */; };
+		F7CCFA0A1ACA60AD00C0F439 /* 22.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9EF1ACA60AD00C0F439 /* 22.png */; };
+		F7CCFA0B1ACA60AD00C0F439 /* 活动.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F01ACA60AD00C0F439 /* 活动.jpg */; };
+		F7CCFA0C1ACA60AD00C0F439 /* 活动时长.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F11ACA60AD00C0F439 /* 活动时长.png */; };
+		F7CCFA0D1ACA60AD00C0F439 /* 活动时长3.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F21ACA60AD00C0F439 /* 活动时长3.png */; };
+		F7CCFA0E1ACA60AD00C0F439 /* 活动消耗热量.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F31ACA60AD00C0F439 /* 活动消耗热量.png */; };
+		F7CCFA0F1ACA60AD00C0F439 /* 活动消耗热量3.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F41ACA60AD00C0F439 /* 活动消耗热量3.png */; };
+		F7CCFA101ACA60AD00C0F439 /* 行走步数.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F51ACA60AD00C0F439 /* 行走步数.png */; };
+		F7CCFA111ACA60AD00C0F439 /* 行走步数2.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F61ACA60AD00C0F439 /* 行走步数2.png */; };
+		F7CCFA121ACA60AD00C0F439 /* 行走距离2.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F71ACA60AD00C0F439 /* 行走距离2.png */; };
+		F7CCFA131ACA60AD00C0F439 /* 行走距离.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F81ACA60AD00C0F439 /* 行走距离.png */; };
+		F7CCFA141ACA60AD00C0F439 /* 运动时长.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9F91ACA60AD00C0F439 /* 运动时长.png */; };
+		F7CCFA151ACA60AD00C0F439 /* 运动时长2.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9FA1ACA60AD00C0F439 /* 运动时长2.png */; };
+		F7CCFA161ACA60AD00C0F439 /* 运动消耗热量.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9FB1ACA60AD00C0F439 /* 运动消耗热量.png */; };
+		F7CCFA171ACA60AD00C0F439 /* 运动消耗热量2.png in Resources */ = {isa = PBXBuildFile; fileRef = F7CCF9FC1ACA60AD00C0F439 /* 运动消耗热量2.png */; };
+		F7CCFA1B1ACB85A900C0F439 /* BHBRotateView.m in Sources */ = {isa = PBXBuildFile; fileRef = F7CCFA1A1ACB85A900C0F439 /* BHBRotateView.m */; };
+		F7CCFA1E1ACB863900C0F439 /* BHBRotateItem.m in Sources */ = {isa = PBXBuildFile; fileRef = F7CCFA1D1ACB863900C0F439 /* BHBRotateItem.m */; };
+		F7CCFA251ACCF1CD00C0F439 /* BHBRotatePoint.m in Sources */ = {isa = PBXBuildFile; fileRef = F7CCFA241ACCF1CD00C0F439 /* BHBRotatePoint.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +71,41 @@
 		F7CCF9CC1ACA436100C0F439 /* 柱状图和旋转视图demoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "柱状图和旋转视图demoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7CCF9D11ACA436100C0F439 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7CCF9D21ACA436100C0F439 /* ________demoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "________demoTests.m"; sourceTree = "<group>"; };
+		F7CCF9DD1ACA43DE00C0F439 /* BHBStickPlotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BHBStickPlotView.h; sourceTree = "<group>"; };
+		F7CCF9DE1ACA43DE00C0F439 /* BHBStickPlotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BHBStickPlotView.m; sourceTree = "<group>"; };
+		F7CCF9E11ACA60AD00C0F439 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		F7CCF9E31ACA60AD00C0F439 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		F7CCF9E41ACA60AD00C0F439 /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		F7CCF9E51ACA60AD00C0F439 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		F7CCF9E61ACA60AD00C0F439 /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		F7CCF9E71ACA60AD00C0F439 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		F7CCF9E81ACA60AD00C0F439 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		F7CCF9E91ACA60AD00C0F439 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		F7CCF9EA1ACA60AD00C0F439 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		F7CCF9EB1ACA60AD00C0F439 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		F7CCF9EC1ACA60AD00C0F439 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		F7CCF9ED1ACA60AD00C0F439 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		F7CCF9EE1ACA60AD00C0F439 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		F7CCF9EF1ACA60AD00C0F439 /* 22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 22.png; sourceTree = "<group>"; };
+		F7CCF9F01ACA60AD00C0F439 /* 活动.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "活动.jpg"; sourceTree = "<group>"; };
+		F7CCF9F11ACA60AD00C0F439 /* 活动时长.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "活动时长.png"; sourceTree = "<group>"; };
+		F7CCF9F21ACA60AD00C0F439 /* 活动时长3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "活动时长3.png"; sourceTree = "<group>"; };
+		F7CCF9F31ACA60AD00C0F439 /* 活动消耗热量.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "活动消耗热量.png"; sourceTree = "<group>"; };
+		F7CCF9F41ACA60AD00C0F439 /* 活动消耗热量3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "活动消耗热量3.png"; sourceTree = "<group>"; };
+		F7CCF9F51ACA60AD00C0F439 /* 行走步数.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "行走步数.png"; sourceTree = "<group>"; };
+		F7CCF9F61ACA60AD00C0F439 /* 行走步数2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "行走步数2.png"; sourceTree = "<group>"; };
+		F7CCF9F71ACA60AD00C0F439 /* 行走距离2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "行走距离2.png"; sourceTree = "<group>"; };
+		F7CCF9F81ACA60AD00C0F439 /* 行走距离.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "行走距离.png"; sourceTree = "<group>"; };
+		F7CCF9F91ACA60AD00C0F439 /* 运动时长.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "运动时长.png"; sourceTree = "<group>"; };
+		F7CCF9FA1ACA60AD00C0F439 /* 运动时长2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "运动时长2.png"; sourceTree = "<group>"; };
+		F7CCF9FB1ACA60AD00C0F439 /* 运动消耗热量.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "运动消耗热量.png"; sourceTree = "<group>"; };
+		F7CCF9FC1ACA60AD00C0F439 /* 运动消耗热量2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "运动消耗热量2.png"; sourceTree = "<group>"; };
+		F7CCFA191ACB85A900C0F439 /* BHBRotateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BHBRotateView.h; sourceTree = "<group>"; };
+		F7CCFA1A1ACB85A900C0F439 /* BHBRotateView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BHBRotateView.m; sourceTree = "<group>"; };
+		F7CCFA1C1ACB863900C0F439 /* BHBRotateItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BHBRotateItem.h; sourceTree = "<group>"; };
+		F7CCFA1D1ACB863900C0F439 /* BHBRotateItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BHBRotateItem.m; sourceTree = "<group>"; };
+		F7CCFA231ACCF1CD00C0F439 /* BHBRotatePoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BHBRotatePoint.h; sourceTree = "<group>"; };
+		F7CCFA241ACCF1CD00C0F439 /* BHBRotatePoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BHBRotatePoint.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +147,8 @@
 		F7CCF9B51ACA436100C0F439 /* 柱状图和旋转视图demo */ = {
 			isa = PBXGroup;
 			children = (
+				F7CCFA181ACB858300C0F439 /* BHBRotateView */,
+				F7CCF9DC1ACA43BC00C0F439 /* BHBStickPlotView */,
 				F7CCF9BA1ACA436100C0F439 /* AppDelegate.h */,
 				F7CCF9BB1ACA436100C0F439 /* AppDelegate.m */,
 				F7CCF9BD1ACA436100C0F439 /* ViewController.h */,
@@ -96,6 +164,7 @@
 		F7CCF9B61ACA436100C0F439 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F7CCF9E01ACA60AD00C0F439 /* 活动图片素材 */,
 				F7CCF9B71ACA436100C0F439 /* Info.plist */,
 				F7CCF9B81ACA436100C0F439 /* main.m */,
 			);
@@ -117,6 +186,70 @@
 				F7CCF9D11ACA436100C0F439 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F7CCF9DC1ACA43BC00C0F439 /* BHBStickPlotView */ = {
+			isa = PBXGroup;
+			children = (
+				F7CCF9DD1ACA43DE00C0F439 /* BHBStickPlotView.h */,
+				F7CCF9DE1ACA43DE00C0F439 /* BHBStickPlotView.m */,
+			);
+			path = BHBStickPlotView;
+			sourceTree = "<group>";
+		};
+		F7CCF9E01ACA60AD00C0F439 /* 活动图片素材 */ = {
+			isa = PBXGroup;
+			children = (
+				F7CCF9E11ACA60AD00C0F439 /* 1.png */,
+				F7CCF9E21ACA60AD00C0F439 /* 200 200 */,
+				F7CCF9EF1ACA60AD00C0F439 /* 22.png */,
+				F7CCF9F01ACA60AD00C0F439 /* 活动.jpg */,
+				F7CCF9F11ACA60AD00C0F439 /* 活动时长.png */,
+				F7CCF9F21ACA60AD00C0F439 /* 活动时长3.png */,
+				F7CCF9F31ACA60AD00C0F439 /* 活动消耗热量.png */,
+				F7CCF9F41ACA60AD00C0F439 /* 活动消耗热量3.png */,
+				F7CCF9F51ACA60AD00C0F439 /* 行走步数.png */,
+				F7CCF9F61ACA60AD00C0F439 /* 行走步数2.png */,
+				F7CCF9F71ACA60AD00C0F439 /* 行走距离2.png */,
+				F7CCF9F81ACA60AD00C0F439 /* 行走距离.png */,
+				F7CCF9F91ACA60AD00C0F439 /* 运动时长.png */,
+				F7CCF9FA1ACA60AD00C0F439 /* 运动时长2.png */,
+				F7CCF9FB1ACA60AD00C0F439 /* 运动消耗热量.png */,
+				F7CCF9FC1ACA60AD00C0F439 /* 运动消耗热量2.png */,
+			);
+			path = "活动图片素材";
+			sourceTree = "<group>";
+		};
+		F7CCF9E21ACA60AD00C0F439 /* 200 200 */ = {
+			isa = PBXGroup;
+			children = (
+				F7CCF9E31ACA60AD00C0F439 /* 1.png */,
+				F7CCF9E41ACA60AD00C0F439 /* 10.png */,
+				F7CCF9E51ACA60AD00C0F439 /* 11.png */,
+				F7CCF9E61ACA60AD00C0F439 /* 12.png */,
+				F7CCF9E71ACA60AD00C0F439 /* 2.png */,
+				F7CCF9E81ACA60AD00C0F439 /* 3.png */,
+				F7CCF9E91ACA60AD00C0F439 /* 4.png */,
+				F7CCF9EA1ACA60AD00C0F439 /* 5.png */,
+				F7CCF9EB1ACA60AD00C0F439 /* 6.png */,
+				F7CCF9EC1ACA60AD00C0F439 /* 7.png */,
+				F7CCF9ED1ACA60AD00C0F439 /* 8.png */,
+				F7CCF9EE1ACA60AD00C0F439 /* 9.png */,
+			);
+			path = "200 200";
+			sourceTree = "<group>";
+		};
+		F7CCFA181ACB858300C0F439 /* BHBRotateView */ = {
+			isa = PBXGroup;
+			children = (
+				F7CCFA191ACB85A900C0F439 /* BHBRotateView.h */,
+				F7CCFA1A1ACB85A900C0F439 /* BHBRotateView.m */,
+				F7CCFA1C1ACB863900C0F439 /* BHBRotateItem.h */,
+				F7CCFA1D1ACB863900C0F439 /* BHBRotateItem.m */,
+				F7CCFA231ACCF1CD00C0F439 /* BHBRotatePoint.h */,
+				F7CCFA241ACCF1CD00C0F439 /* BHBRotatePoint.m */,
+			);
+			path = BHBRotateView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +332,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7CCFA081ACA60AD00C0F439 /* 8.png in Resources */,
+				F7CCFA091ACA60AD00C0F439 /* 9.png in Resources */,
+				F7CCFA041ACA60AD00C0F439 /* 4.png in Resources */,
+				F7CCFA161ACA60AD00C0F439 /* 运动消耗热量.png in Resources */,
+				F7CCFA151ACA60AD00C0F439 /* 运动时长2.png in Resources */,
 				F7CCF9C21ACA436100C0F439 /* Main.storyboard in Resources */,
+				F7CCFA141ACA60AD00C0F439 /* 运动时长.png in Resources */,
+				F7CCFA0B1ACA60AD00C0F439 /* 活动.jpg in Resources */,
+				F7CCF9FD1ACA60AD00C0F439 /* 1.png in Resources */,
+				F7CCFA071ACA60AD00C0F439 /* 7.png in Resources */,
+				F7CCFA121ACA60AD00C0F439 /* 行走距离2.png in Resources */,
+				F7CCFA0D1ACA60AD00C0F439 /* 活动时长3.png in Resources */,
+				F7CCFA101ACA60AD00C0F439 /* 行走步数.png in Resources */,
+				F7CCF9FF1ACA60AD00C0F439 /* 10.png in Resources */,
 				F7CCF9C71ACA436100C0F439 /* LaunchScreen.xib in Resources */,
+				F7CCFA011ACA60AD00C0F439 /* 12.png in Resources */,
+				F7CCFA061ACA60AD00C0F439 /* 6.png in Resources */,
+				F7CCFA031ACA60AD00C0F439 /* 3.png in Resources */,
 				F7CCF9C41ACA436100C0F439 /* Images.xcassets in Resources */,
+				F7CCFA111ACA60AD00C0F439 /* 行走步数2.png in Resources */,
+				F7CCFA021ACA60AD00C0F439 /* 2.png in Resources */,
+				F7CCFA0E1ACA60AD00C0F439 /* 活动消耗热量.png in Resources */,
+				F7CCFA0C1ACA60AD00C0F439 /* 活动时长.png in Resources */,
+				F7CCFA131ACA60AD00C0F439 /* 行走距离.png in Resources */,
+				F7CCFA051ACA60AD00C0F439 /* 5.png in Resources */,
+				F7CCFA001ACA60AD00C0F439 /* 11.png in Resources */,
+				F7CCFA0F1ACA60AD00C0F439 /* 活动消耗热量3.png in Resources */,
+				F7CCFA171ACA60AD00C0F439 /* 运动消耗热量2.png in Resources */,
+				F7CCF9FE1ACA60AD00C0F439 /* 1.png in Resources */,
+				F7CCFA0A1ACA60AD00C0F439 /* 22.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,8 +379,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7CCFA251ACCF1CD00C0F439 /* BHBRotatePoint.m in Sources */,
 				F7CCF9BF1ACA436100C0F439 /* ViewController.m in Sources */,
+				F7CCF9DF1ACA43DE00C0F439 /* BHBStickPlotView.m in Sources */,
+				F7CCFA1E1ACB863900C0F439 /* BHBRotateItem.m in Sources */,
 				F7CCF9BC1ACA436100C0F439 /* AppDelegate.m in Sources */,
+				F7CCFA1B1ACB85A900C0F439 /* BHBRotateView.m in Sources */,
 				F7CCF9B91ACA436100C0F439 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -346,8 +510,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "柱状图和旋转视图demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -356,8 +522,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "柱状图和旋转视图demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
